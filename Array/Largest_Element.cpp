@@ -43,7 +43,7 @@ class Solution {
 };
 //Time Complexity: O(n) where n is the size of the array
 //Space Complexity: O(1) as we are using only a constant amount of extra space
-//Method-3
+//Method-3 Brute Force
 class Solution {
   public:
     int largest(vector<int> &arr) {

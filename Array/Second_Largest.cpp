@@ -19,6 +19,7 @@ public:
         return second_largest;
     }
 };
-// };
-// Time Complexity: O(n) where n is the size of the array
+// Better Approach
+// Time Complexity: O(2n) where n is the size of the array
 // Space Complexity: O(1) as we are using only a constant amount of extra space
+//Method-2 is Brute force oF SORT THE ARRAY AND ACCESS THE NUMBER FROM AND USE CONDITION AND WHILE OR FOR LOOP
